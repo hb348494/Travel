@@ -14,13 +14,13 @@ const HomeHeroSection = () => {
           {/* LEFT CONTENT */}
           <div className="text-center lg:text-left py-6">
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-black mb-6 tracking-tight">
-              Italy
+              Europe
             </h1>
 
             <div className="bg-gradient-to-r from-yellow-400 to-orange-500 
               text-gray-900 font-bold text-sm sm:text-base md:text-lg 
               px-5 sm:px-6 py-3 rounded-full mb-8 inline-block shadow-lg">
-              Claim 10% off select flights to Italy
+              Claim 10% off select flights to Europe
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -41,7 +41,7 @@ const HomeHeroSection = () => {
           </div>
 
           {/* RIGHT IMAGE */}
-          <div className="flex justify-center lg:justify-end">
+          <div className="flex justify-center lg:justify-end py-10">
             <img
               src="/Homepage/ItalyFamous.jpeg"
               alt="Italy scenic view"

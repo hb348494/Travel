@@ -8,12 +8,10 @@ const ThingsToDo = () => {
       {/* Header Section */}
       <div className="max-w-7xl mx-auto mb-10">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-          Things to Do in USA
+          Unforgettable USA Adventures, Tailored Just For You
         </h1>
         <p className="text-base sm:text-lg text-gray-600 max-w-4xl">
-          With two unique islands, 14 national parks, and dozens of diverse
-          cities, there are plenty of USA attractions and activities to
-          choose from.
+       Explore breathtaking landscapes and vibrant cities. We handle the details, you make the memories.
         </p>
       </div>
 

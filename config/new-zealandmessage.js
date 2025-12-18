@@ -6,7 +6,7 @@ export const activityCards = [
     title: "Food & Wine Tours",
     category: "Culinary",
     description:
-      "Discover unique flavors and fresh food from the source as you eat and drink your way around New Zealand's diverse regions.",
+      "Discover the soul of New Zealand through its rich Māori heritage and warm Kiwi lifestyle. Experience traditional Haka performances, taste authentic Hāngī food",
     imageUrl: "../Homepage/FoodN.jpeg",
     duration: "Half-day to multi-day",
     difficulty: "Easy",
@@ -14,22 +14,22 @@ export const activityCards = [
   },
   {
     id: 2,
-    title: "Stargazing Experiences",
+    title: "Sightseeing Experience",
     category: "Nature",
     description:
-      "Experience magical stargazing under dark skies with otherworldly landscapes that make the heavens appear closer to Earth.",
-    imageUrl: "../Homepage/New1.jpeg",
+      "Explore New Zealand’s most breathtaking sights — from snowy mountains and turquoise lakes to glowworm caves and iconic film locations.",
+    imageUrl: "../Homepage/SN.jpeg",
     duration: "Evening sessions",
     difficulty: "Easy",
     location: "Dark Sky Reserves, Tekapo & remote areas",
   },
   {
     id: 3,
-    title: "Thermal Spa Retreats",
+    title: "Culture",
     category: "Health",
     description:
       "Find peace in nature and soak in natural thermal pools for ultimate rest and relaxation throughout New Zealand.",
-    imageUrl: "../Homepage/Dance.jpeg",
+    imageUrl: "../Homepage/CultureN.jpeg",
     duration: "2+ hours to full-day",
     difficulty: "Easy",
     location: "Rotorua, Hanmer Springs, etc.",
@@ -39,7 +39,7 @@ export const activityCards = [
     title: "Adventure Activities",
     category: "Adrenaline",
     description:
-      "Get your thrills and excitement with adventure tourism activities in the adventure capital of the world.",
+      "Feel the thrill in New Zealand’s adrenaline playground — bungee jumping, skydiving, glacier hiking, jet boating, and more. Adventure awaits at every corner!",
     imageUrl: "../Homepage/New1.jpeg",
     duration: "1-4 hours",
     difficulty: "Moderate to Extreme",

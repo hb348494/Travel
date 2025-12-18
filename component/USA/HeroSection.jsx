@@ -41,7 +41,7 @@ const HomeHeroSection = () => {
           {/* RIGHT IMAGE */}
           <div className="flex justify-center lg:justify-end mt-8 lg:mt-0">
             <img
-              src="/Homepage/USAhOME.jpeg"
+              src="/Homepage/USAHOME.jpeg"
               alt="USA scenic view"
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg rounded-2xl shadow-md object-cover"
             />

@@ -10,7 +10,7 @@ const ThingsToDo = () => {
       {/* Header Section */}
       <div className="max-w-7xl mx-auto mb-10">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-          Things to Do in Italy
+          Things to Do in Europe
         </h1>
         <p className="text-base sm:text-lg text-gray-600 max-w-4xl">
           Discover the local charm by exploring popular landmarks, hidden
@@ -54,10 +54,10 @@ const ThingsToDo = () => {
         {/* Stay Header */}
         <div className="mb-8">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-            Where to Stay in Italy
+            Where to Stay in Europe
           </h2>
           <p className="text-base sm:text-lg text-gray-600 max-w-4xl">
-            Hotels in Italy come in all shapes, sizes, and personalities. From
+            Hotels in Europe come in all shapes, sizes, and personalities. From
             budget to luxury, there are hundreds of hotels to choose from.
           </p>
         </div>

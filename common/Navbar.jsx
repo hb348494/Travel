@@ -36,7 +36,6 @@ export default function Navbar() {
     <>
       <nav className="w-full bg-white shadow-md fixed top-0 left-0 z-40">
         <div className="flex items-center justify-between px-6 md:px-10 py-4">
-
           {/* Logo */}
           <p
             className="text-2xl font-bold text-pink-500 cursor-pointer hover:scale-105 transition"
@@ -55,8 +54,13 @@ export default function Navbar() {
             </button>
 
             <button
+              onClick={() => {
+                setLoading(true);
+                router.push("/deal");
+                setTimeout(() => setLoading(false), 700);
+              }}
               className="border border-blue-400 text-blue-500 px-4 py-1 rounded-full
-              hover:bg-blue-500 hover:text-white transition"
+  hover:bg-blue-500 hover:text-white transition"
             >
               Deals
             </button>
@@ -81,10 +85,7 @@ export default function Navbar() {
           </div>
 
           {/* Mobile Menu Icon */}
-          <button
-            className="md:hidden"
-            onClick={() => setOpenMenu(!openMenu)}
-          >
+          <button className="md:hidden" onClick={() => setOpenMenu(!openMenu)}>
             {openMenu ? <X size={28} /> : <Menu size={28} />}
           </button>
         </div>

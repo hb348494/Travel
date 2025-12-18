@@ -33,7 +33,7 @@ const HomeHeroSection = () => {
               <button className="bg-transparent border-2 border-black text-black 
                 font-semibold px-6 sm:px-8 py-3 sm:py-4 
                 rounded-full text-base sm:text-lg 
-                hover:bg-black/5 transition-all shadow-lg hover:scale-105 duration-300">
+                 transition-all shadow-lg hover:scale-105 duration-300">
                 Search Hotels
               </button>
             </div>

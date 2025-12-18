@@ -3,10 +3,10 @@
 export const activityCards = [
   {
     id: 1,
-    title: "Food & Wine Tours",
+    title: "Cuisine",
     category: "Culinary",
     description:
-      "Discover unique flavors and fresh food from the source as you eat and drink your way around New Zealand's diverse regions.",
+      "From savory meat pies and the beloved smashed avo to sweet Lamingtons and Pavlova, the cuisine offers a diverse and innovative array of flavors and experiences.",
     imageUrl: "../Homepage/Aus-1.jpeg",
     duration: "Half-day to multi-day",
     difficulty: "Easy",
@@ -17,7 +17,7 @@ export const activityCards = [
     title: "culture",
     category: "Nature",
     description:
-      "Experience magical stargazing under dark skies with otherworldly landscapes that make the heavens appear closer to Earth.",
+      "Deep appreciation for  natural landscapes and a lifestyle that involves frequent outdoor activities like beach trips, barbecues barbies, and sports.",
     imageUrl: "../Homepage/Aus-2.jpeg",
     duration: "Evening sessions",
     difficulty: "Easy",
@@ -28,7 +28,7 @@ export const activityCards = [
     title: "Adventure",
     category: "Health",
     description:
-      "vibrant, welcoming mosaic culture defined by Indigenous heritage, French and British roots, and global influences. Explore rich First Nations history and art, enjoy the unique French-Canadian zest of Quebec,",
+      "You can explore adventures in Australia that range from marine wildlife encounters to rugged inland exploration",
     imageUrl: "../Homepage/Aus-3.jpeg",
     duration: "2+ hours to full-day",
     difficulty: "Easy",
@@ -36,11 +36,11 @@ export const activityCards = [
   },
   {
     id: 4,
-    title: "Fun Place",
+    title: "Sightseeing",
     category: "Adrenaline",
     description:
-      " offers a vibrant culinary journey where you can eat and drink your way from Atlantic lobster shacks to Pacific salmon bakes, savoring diverse poutine, butter tarts, and Indigenous flavors in between..",
-    imageUrl: "../Homepage/Aus-4.jpeg",
+      " Mix of iconic man-made structures and stunning natural wonders. Must-see spots range from vibrant city landmarks to ancient, sacred natural sites.",
+    imageUrl: "../Homepage/SightA.avif",
     duration: "1-4 hours",
     difficulty: "Moderate to Extreme",
     location: "Queenstown, Wanaka, Taupo",

@@ -9,12 +9,10 @@ const ThingsToDo = () => {
       {/* Header */}
       <div className="max-w-7xl mx-auto mb-10 text-center lg:text-left">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-          Things to Do in Australia
+          Escape the Ordinary in Australia	
         </h1>
         <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-4xl mx-auto lg:mx-0">
-          With two unique islands, 14 national parks, and dozens of diverse
-          cities, there are plenty of Australia attractions and activities to
-          choose from.
+          Where adventure meets breathtaking natural beauty and endless possibilities
         </p>
       </div>
 

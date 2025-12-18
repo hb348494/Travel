@@ -9,13 +9,11 @@ const ThingsToDo = () => {
       {/* Header Section */}
       <div className="max-w-7xl mx-auto mb-10">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-          Things to Do in New Zealand
+          “Discover New Zealand — Where Adventure Meets Serenity.”
         </h1>
-        <p className="text-base sm:text-lg text-gray-600 max-w-4xl">
-          With two unique islands, 14 national parks, and dozens of diverse
-          cities, there are plenty of New Zealand attractions and activities to
-          choose from.
-        </p>
+        {/* <p className="text-base sm:text-lg text-gray-600 max-w-4xl">
+          
+        </p> */}
       </div>
 
       {/* Activity Cards Grid */}

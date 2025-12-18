@@ -3,10 +3,10 @@
 export const activityCards = [
   {
     id: 1,
-    title: "City life",
+    title: "Adventure",
     category: "Culinary",
     description:
-      "Discover unique flavors and fresh food from the source as you eat and drink your way around New Zealand's diverse regions.",
+      "The United States provides immense adventure opportunities across its diverse landscapes. Key activities include hiking, rock climbing, and mountaineering in iconic locations like Yosemite National Park ",
     imageUrl: "../Homepage/USAU1.jpeg",
     duration: "Half-day to multi-day",
     difficulty: "Easy",
@@ -25,10 +25,10 @@ export const activityCards = [
   },
   {
     id: 3,
-    title: "Adventure Activities",
+    title: "City Life",
     category: "Health",
     description:
-      "Get your thrills and excitement with adventure tourism activities in the adventure capital of the world.",
+      "Dive into the pulsating rhythm of American cities, where towering skyscrapers meet vibrant street-level culture.",
     imageUrl: "../Homepage/USAU3.jpeg",
     duration: "2+ hours to full-day",
     difficulty: "Easy",

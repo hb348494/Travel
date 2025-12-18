@@ -6,7 +6,7 @@ const HomeHeroSection = () => {
   return (
     <section className="relative min-h-[70vh] lg:min-h-[60vh] overflow-hidden">
       
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 py-16 lg:py-20 flex items-center">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 py-16 lg:py-26 flex items-center">
         
         {/* Grid Layout */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 w-full items-center">
@@ -43,7 +43,7 @@ const HomeHeroSection = () => {
           {/* RIGHT IMAGE */}
           <div className="flex justify-center lg:justify-end">
             <img
-              src="/Homepage/CanadaHome.jpeg"
+              src="/Homepage/RestC.jpeg"
               alt="Canada scenic view"
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg 
                 rounded-2xl shadow-md object-cover"

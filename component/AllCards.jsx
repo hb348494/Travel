@@ -33,7 +33,7 @@ const AllCards = () => {
       
       {/* Header */}
       <div className="max-w-7xl mx-auto mb-8 text-center sm:text-left">
-        <h2 className="text-xl sm:text-2xl md:text-3xl font-semibold text-gray-900">
+        <h2 className="text-xl sm:text-2xl md:text-3xl font-semibold text-gray-900 py-8">
           Deals for top destinations
         </h2>
       </div>

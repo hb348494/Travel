@@ -48,7 +48,7 @@ const destinationCards = [
     name: "Europe",
     image: "/Homepage/Italy.jpeg",
     badgeText: "20% off flights",
-    title: "Italy",
+    title: "Europe",
     subtitle: "Tap to save 20% off Flights",
     ctaText: "Claim now",
     ctaRoute: "/europe",

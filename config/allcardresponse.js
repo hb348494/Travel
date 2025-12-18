@@ -1,0 +1,58 @@
+const destinationCards = [
+  {
+    name: "New Zealand",
+    image: "/Homepage/Newzealand.jpg",
+    badgeText: "10% off flights",
+    title: "New Zealand",
+    subtitle: "Tap to get $300 off select flights to New Zealand",
+    ctaText: "Claim now",
+    ctaRoute: "/new-zealand",
+  },
+  {
+    name: "Canada",
+    image: "/Homepage/Canada.jpeg",
+    badgeText: "10% off flights",
+    title: "Canada",
+    subtitle: "Tap to save 10% off hotels",
+    ctaText: "Claim now",
+    ctaRoute: "/canada",
+  },
+  {
+    name: "USA",
+    image: "/Homepage/USA.jpeg",
+    badgeText: "20% off flights",
+    title: "USA",
+    subtitle: "Tap to save 20% off hotels",
+    ctaText: "Claim now",
+    ctaRoute: "/usa",
+  },
+  {
+    name: "Australia",
+    image: "/Homepage/Australia.jpeg",
+    badgeText: "10% off flights",
+    title: "Australia",
+    subtitle: "Tap to get 10% off select flights to Australia",
+    ctaText: "Claim now",
+    ctaRoute: "/australia",
+  },
+  {
+    name: "Paris",
+    image: "/Homepage/Europe.jpeg",
+    badgeText: "10% off flights",
+    title: "Paris",
+    subtitle: "Tap to save 10% off Flights",
+    ctaText: "Claim now",
+    ctaRoute: "/paris",
+  },
+  {
+    name: "Italy",
+    image: "/Homepage/Italy.jpeg",
+    badgeText: "20% off flights",
+    title: "Italy",
+    subtitle: "Tap to save 20% off Flights",
+    ctaText: "Claim now",
+    ctaRoute: "/italy",
+  },
+];
+
+export default destinationCards;

@@ -10,7 +10,7 @@ const ThingsToDo = () => {
       {/* HEADER */}
       <div className="max-w-7xl mx-auto mb-10 text-center lg:text-left">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-          Things to Do in Paris
+          Things to Do in France
         </h1>
         <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-4xl mx-auto lg:mx-0">
           Discover the local charm by exploring popular landmarks, hidden streets,
@@ -52,10 +52,10 @@ const ThingsToDo = () => {
       <div className="max-w-7xl mx-auto">
         <div className="mb-10 text-center lg:text-left">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-            Where to Stay in Paris
+            Where to Stay in France
           </h2>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-4xl mx-auto lg:mx-0">
-            Hotels in Paris come in all shapes, sizes, and personalities.
+            Hotels in France come in all shapes, sizes, and personalities.
             From budget to luxury, there are hundreds of options across the city.
           </p>
         </div>

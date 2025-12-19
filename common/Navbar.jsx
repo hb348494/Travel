@@ -38,8 +38,14 @@ export default function Navbar() {
         <div className="flex items-center justify-between px-6 md:px-10 py-4">
           {/* Logo */}
           <p
-            className="text-2xl font-bold text-pink-500 cursor-pointer hover:scale-105 transition"
             onClick={handleclick}
+            className="
+    text-xl md:text-2xl font-extrabold cursor-pointer
+    bg-gradient-to-r from-blue-600 via-sky-500 to-indigo-600
+    bg-clip-text text-transparent
+    tracking-wide
+    hover:scale-105 transition
+  "
           >
             TheEliteTravel
           </p>

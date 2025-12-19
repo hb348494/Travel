@@ -39,11 +39,11 @@ const HomeHeroSection = () => {
           </div>
 
           {/* RIGHT IMAGE */}
-          <div className="flex justify-center lg:justify-end">
+          <div className="flex justify-center lg:justify-end py-10">
             <img
               src="/Homepage/Tower.jpeg"
               alt="Paris scenic view"
-              className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg 
+              className="w-full max-w-md sm:max-w-sm md:max-w-sm lg:max-w-sm 
                 rounded-2xl shadow-md object-contain"
             />
           </div>

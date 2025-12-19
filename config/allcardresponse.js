@@ -36,13 +36,13 @@ const destinationCards = [
     ctaRoute: "/australia",
   },
   {
-    name: "Paris",
+    name: "France",
     image: "/Homepage/Europe.jpeg",
     badgeText: "10% off flights",
-    title: "Paris",
+    title: "France",
     subtitle: "Tap to save 10% off Flights",
     ctaText: "Claim now",
-    ctaRoute: "/paris",
+    ctaRoute: "/france",
   },
   {
     name: "Europe",

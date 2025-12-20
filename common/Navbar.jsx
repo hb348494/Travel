@@ -91,7 +91,10 @@ export default function Navbar() {
           </div>
 
           {/* Mobile Menu Icon */}
-          <button className="md:hidden" onClick={() => setOpenMenu(!openMenu)}>
+          <button
+            className="md:hidden text-black"
+            onClick={() => setOpenMenu(!openMenu)}
+          >
             {openMenu ? <X size={28} /> : <Menu size={28} />}
           </button>
         </div>
